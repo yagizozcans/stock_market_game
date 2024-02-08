@@ -48,7 +48,7 @@ int main()
     lineDatas.push_back(s_line_data(3.0f,2.0f,-12.0f,9.0f,sf::Color::Yellow));
     lineDatas.push_back(s_line_data(1.0f,1.7f,-2.0f,1.7f,sf::Color::Cyan));
     lineDatas.push_back(s_line_data(1.5f,1.0f,-3.0f,3.5f,sf::Color::Magenta));
-    lineDatas.push_back(s_line_data(1.0f,1.3f,-20.0f,18.0f,sf::Color::Red));
+    lineDatas.push_back(s_line_data(2.0f,1.5f,-20.0f,19.0f,sf::Color::Red));
     while (window.isOpen())
     {
         sf::Event event;

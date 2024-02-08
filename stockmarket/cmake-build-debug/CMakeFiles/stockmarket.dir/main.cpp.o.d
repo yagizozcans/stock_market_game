@@ -1,5 +1,5 @@
 CMakeFiles/stockmarket.dir/main.cpp.o: \
-  /Users/yagizozcan/Desktop/C++/stockmarket/main.cpp \
+  /Users/yagizozcan/Desktop/C++/stock_market_game/stockmarket/main.cpp \
   /opt/homebrew/include/SFML/Graphics.hpp \
   /opt/homebrew/include/SFML/Window.hpp \
   /opt/homebrew/include/SFML/System.hpp \

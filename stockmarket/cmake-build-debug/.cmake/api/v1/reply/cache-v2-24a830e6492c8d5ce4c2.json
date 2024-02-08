@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/yagizozcan/Desktop/C++/stockmarket/cmake-build-debug"
+			"value" : "/Users/yagizozcan/Desktop/C++/stock_market_game/stockmarket/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -579,7 +579,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/yagizozcan/Desktop/C++/stockmarket/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/yagizozcan/Desktop/C++/stock_market_game/stockmarket/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -639,7 +639,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/yagizozcan/Desktop/C++/stockmarket"
+			"value" : "/Users/yagizozcan/Desktop/C++/stock_market_game/stockmarket"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1271,7 +1271,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/yagizozcan/Desktop/C++/stockmarket/cmake-build-debug"
+			"value" : "/Users/yagizozcan/Desktop/C++/stock_market_game/stockmarket/cmake-build-debug"
 		},
 		{
 			"name" : "stockmarket_IS_TOP_LEVEL",
@@ -1295,7 +1295,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/yagizozcan/Desktop/C++/stockmarket"
+			"value" : "/Users/yagizozcan/Desktop/C++/stock_market_game/stockmarket"
 		}
 	],
 	"kind" : "cache",

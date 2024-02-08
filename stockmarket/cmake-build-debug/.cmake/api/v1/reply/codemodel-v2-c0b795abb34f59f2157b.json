@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/yagizozcan/Desktop/C++/stockmarket/cmake-build-debug",
-		"source" : "/Users/yagizozcan/Desktop/C++/stockmarket"
+		"build" : "/Users/yagizozcan/Desktop/C++/stock_market_game/stockmarket/cmake-build-debug",
+		"source" : "/Users/yagizozcan/Desktop/C++/stock_market_game/stockmarket"
 	},
 	"version" : 
 	{
